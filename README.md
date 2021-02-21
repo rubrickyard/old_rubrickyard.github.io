@@ -1,16 +1,16 @@
-![uBuild Blocks](uploads/2018/06/21/theme.png)
+---
 
-# uBuild Jekyll Theme
+---
 
-[View the announcement post on Forestry.io](https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/#/)
+# AI for a purpose, not for its own sake
 
-`ubuild-jekyll` is a Jekyll theme designed to work with [Forestry](https://forestry.io/)'s [Blocks](https://forestry.io/blog/blocks-give-your-editors-the-power-to-build-pages/) feature.  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI that will empower content editors to construct their own webpages.
+We believe that AI projects should not be started just out of Fear Of Missing Out. We will help you set the foundational brick to your meaningful project, providing interdisciplinary solutions powered with AI. We offer training and strategy planning to help you incorporate and implement custom AI solutions in your workflow. 
 
 ## Quick Start
 
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll)
 
-*This option is available for Github and Gitlab users only. If you use Bitbucket please use the Alternative Setup*
+_This option is available for Github and Gitlab users only. If you use Bitbucket please use the Alternative Setup_
 
 ## Alternative Setup
 
@@ -19,4 +19,3 @@
 3. [Import your repo](https://forestry.io/docs/quickstart/setup-site/#import-site-from-repo) as a new Jekyll project
 
 To use the page builder, select the **Page Builder** template when creating a new page.
-
