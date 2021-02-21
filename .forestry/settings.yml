@@ -4,6 +4,13 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: jekyll-pages
+  label: About
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - simple-header
 - type: document
   path: FORESTRY-README.md
   label: Welcome
