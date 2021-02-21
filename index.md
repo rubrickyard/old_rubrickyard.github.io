@@ -11,8 +11,8 @@ page_sections:
     link_text: RuBrick
   - link: "/"
     link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
+  - link: "#about"
+    link_text: About
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
