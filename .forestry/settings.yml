@@ -7,8 +7,7 @@ sections:
 - type: jekyll-pages
   label: About
   create: all
-  match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - simple-header
 - type: document
