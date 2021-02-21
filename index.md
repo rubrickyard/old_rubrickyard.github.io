@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: RuBrick<br><strong>AI for a purpose, not for its own sake</strong>
+  headline: RuBrick<br><strong>AI for a purpose not for its own sake</strong>
   content: ''
   cta:
     enabled: true
