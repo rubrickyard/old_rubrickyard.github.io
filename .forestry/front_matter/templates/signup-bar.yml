@@ -7,13 +7,15 @@ fields:
   name: block
   default: cta-bar
   hidden: true
-- type: textarea
-  name: content
-  label: Content
+- name: contact_form
+  type: textarea
+  default: We want to hear about you
   config:
+    required: false
     wysiwyg: true
     schema:
       format: html
+  label: Contact form
 - type: text
   name: email_recipient
   label: Email Recipient
