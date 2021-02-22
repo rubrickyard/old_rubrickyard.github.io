@@ -18,12 +18,11 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<br><strong>AI for a purpose<br></strong>Not for its own sake"
-  content: AI projects should not be started out of <strong><em>F</em></strong><em>ear
-    </em><strong><em>O</em></strong><em>f </em><strong><em>M</em></strong><em>issing
-    </em><strong><em>O</em></strong><em>ut</em>. Our mission is to help you set the
-    <strong>foundational brick to your meaningful project,</strong> providing interdisciplinary
-    solutions powered with AI. We offer training and strategy planning to help you
-    incorporate and implement custom AI solutions in your workflow.
+  content: AI projects should not be started out of <em>Fear Of Missing Out</em>.
+    Our mission is to help you set the <strong>foundational brick to your meaningful
+    project,</strong> providing interdisciplinary solutions powered with AI. We offer
+    training and strategy planning to help you incorporate and implement custom AI
+    solutions in your workflow.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
