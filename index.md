@@ -33,7 +33,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: About
+  slug: about
   headline: '<strong>A Doctor and an Engineer walked into a Brickyard<br><br></strong>We
     are motivated to build meaningful tools utilizing cutting edge AI research with
     a larger interdisciplinary purpose in mind. We are troubled and inspired by the
