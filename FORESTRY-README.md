@@ -1,4 +1,5 @@
 ---
+logo: "/uploads/2021/02/22/brick-2.png"
 
 ---
 # Editing Your uBuild Site
