@@ -12,7 +12,7 @@ page_sections:
   - link: "#about"
     link_text: About
   cta:
-    url: houda@rubrick.ca
+    url: "/contact"
     button_text: Contact us
 - template: hero-banner-w-image
   block: hero-2
