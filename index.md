@@ -34,15 +34,14 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: about
-  headline: '<strong>A Doctor and an Engineer walked into a Brickyard<br><br></strong>We
-    are motivated to build meaningful tools utilizing cutting edge AI research with
-    a larger interdisciplinary purpose in mind. We are troubled and inspired by the
-    1963 letter by Bernard K. Forscher titled “<a href="https://science.sciencemag.org/content/142/3590/339.1"><span
+  headline: "<strong>A Doctor and an Engineer walked into a Brickyard<br></strong>"
+  content: 'We are motivated to build meaningful tools utilizing cutting edge AI research
+    with a larger interdisciplinary purpose in mind. We are troubled and inspired
+    by the 1963 letter by Bernard K. Forscher titled “<a href="https://science.sciencemag.org/content/142/3590/339.1"><span
     style="text-decoration: underline;">Chaos in the </span><em><span style="text-decoration:
     underline;">Brickyard</span></em></a>” that warns the scientific and tech community
     against drawing in a sea of disconnected/incoherent facts and tools i.e. <em>bricks</em>
     without understanding their interconnections.'
-  content: ''
   media:
     image: ''
     alt_text: uBuild Blocks Mock-Up
