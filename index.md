@@ -5,12 +5,12 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2021/02/22/brick-2.png"
   navigation:
   - link: "/"
     link_text: About
   - link: "/"
-    link_text: Ubuild
+    link_text: Contact
   - link: "#swap"
     link_text: Swap
   cta:
