@@ -29,7 +29,7 @@ page_sections:
     button_text: Coming soon
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    alt_text: ''
   background_image: ''
 - template: content-feature
   block: feature-1
