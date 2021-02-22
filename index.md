@@ -55,5 +55,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: signup-bar
+  block: cta-bar
+  contact_form: We want to hear about you
+  email_recipient: houda@rubrick.ca
 
 ---
