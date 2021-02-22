@@ -11,8 +11,8 @@ page_sections:
     link_text: Home
   - link: "#about"
     link_text: About
-  - link: "#swap"
-    link_text: Swap
+  - link: "#contact"
+    link_text: Contact
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
