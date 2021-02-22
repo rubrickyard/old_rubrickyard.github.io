@@ -44,7 +44,7 @@ page_sections:
     without understanding their interconnections.'
   media:
     image: ''
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: About us
 - template: content-feature
   block: feature-1
   media_alignment: Right
