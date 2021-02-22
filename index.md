@@ -19,9 +19,11 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: "<br><strong>AI for a purpose<br>Not for its own sake</strong>"
+  content: AI projects should not be started out of Fear Of Missing Out. Our mission
+    is to help you set the foundational brick to your meaningful project, providing
+    interdisciplinary solutions powered with AI. We offer training and strategy planning
+    to help you incorporate and implement custom AI solutions in your workflow.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
@@ -29,7 +31,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
