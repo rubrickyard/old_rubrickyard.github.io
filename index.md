@@ -11,11 +11,9 @@ page_sections:
     link_text: Home
   - link: "#about"
     link_text: About
-  - link: "#contact"
-    link_text: Contact
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: houda@rubrick.ca
+    button_text: Contact us
 - template: hero-banner-w-image
   block: hero-2
   slug: features
