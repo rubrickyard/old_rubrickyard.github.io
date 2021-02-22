@@ -8,9 +8,9 @@ page_sections:
   logo: "/uploads/2021/02/22/brick-2.png"
   navigation:
   - link: "/"
+    link_text: Home
+  - link: "#About"
     link_text: About
-  - link: "/"
-    link_text: Contact
   - link: "#swap"
     link_text: Swap
   cta:
