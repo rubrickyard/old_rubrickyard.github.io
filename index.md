@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2021/02/24/explosion.jpg"
     alt_text: ''
-  background_image: ''
+  background_image: "/uploads/2021/02/24/untitled.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
