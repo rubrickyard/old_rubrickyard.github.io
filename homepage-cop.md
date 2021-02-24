@@ -9,15 +9,6 @@ page_sections:
   - link: "/"
     link_text: About
   logo: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: AI for a purpose, not for its own sake
-  content: 'Coming soon! '
-  slug: comingsoon
-  media:
-    image: ''
-    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
@@ -25,5 +16,9 @@ page_sections:
   block: cta-bar
   contact_form: We want to hear about you
   email_recipient: houda@rubrick.ca
+- template: detail-content
+  block: text-1
+  headline: AI for a purpose, not for its own sake
+  content: "<p>To learn more, email us at info@rubrick.ca</p>"
 
 ---
