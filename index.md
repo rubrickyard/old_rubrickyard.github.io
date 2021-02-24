@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/02/22/brick-2.png"
+  logo: "/uploads/logos/logo1.png"
   navigation:
   - link: "/"
     link_text: Home
@@ -28,9 +28,9 @@ page_sections:
     url: 'mailto: info@rubrick.ca'
     button_text: 'Contact us! '
   image:
-    image: "/uploads/2021/02/24/untitled.png"
+    image: "/uploads/2018/06/21/hero-2-bg.png"
     alt_text: ''
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
