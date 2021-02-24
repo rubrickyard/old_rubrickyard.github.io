@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage-(copy)
+title: Homepage
 date: 2021-02-23 00:00:00 -0500
 page_sections:
 - template: content-feature
