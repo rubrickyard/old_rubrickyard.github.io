@@ -28,7 +28,7 @@ page_sections:
     url: 'mailto: info@rubrick.ca'
     button_text: 'Contact us! '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2018/06/21/hero-2-bg.png"
     alt_text: ''
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
@@ -49,5 +49,17 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
