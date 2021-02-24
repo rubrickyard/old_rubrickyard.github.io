@@ -44,19 +44,10 @@ page_sections:
     against drawing in a sea of disconnected/incoherent facts and tools i.e. <em>bricks</em>
     without understanding their interconnections.'
   media:
-    image: ''
+    image: "/uploads/2021/02/24/untitled.png"
     alt_text: About us
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: signup-bar
-  block: cta-bar
-  contact_form: We want to hear about you
-  email_recipient: houda@rubrick.ca
 
 ---
