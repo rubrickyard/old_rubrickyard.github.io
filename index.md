@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/logos/logo1.png"
+  logo: "/uploads/logos/logo2.png"
   navigation:
   - link: "/"
     link_text: Home
@@ -41,7 +41,7 @@ page_sections:
     by the 1963 letter by Bernard K. Forscher titled “<a href="https://science.sciencemag.org/content/142/3590/339.1"><span
     style="text-decoration: underline;">Chaos in the </span><em><span style="text-decoration:
     underline;">Brickyard</span></em></a>” that warns the scientific and tech community
-    against drawing in a sea of disconnected/incoherent facts and tools i.e. <em>bricks</em>
+    against drawing in a sea of disconnected facts and tools i.e. <em>bricks</em>
     without understanding their interconnections.'
   media:
     image: "/uploads/2021/02/24/untitlednarrow.png"
