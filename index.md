@@ -28,7 +28,7 @@ page_sections:
     url: 'mailto: info@rubrick.ca'
     button_text: 'Contact us! '
   image:
-    image: "/uploads/2018/06/21/hero-2-bg.png"
+    image: "/uploads/2021/02/24/explosion.jpg"
     alt_text: ''
   background_image: ''
 - template: content-feature
