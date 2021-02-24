@@ -58,6 +58,5 @@ page_sections:
   block: cta-bar
   contact_form: We want to hear about you
   email_recipient: houda@rubrick.ca
-published: false
 
 ---
