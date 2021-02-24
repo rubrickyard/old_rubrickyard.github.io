@@ -33,6 +33,5 @@ fields:
   - 4-column-footer
 pages:
 - "./homepage-copy.md"
-- comingsoon.md
 - index.md
 - index.md
