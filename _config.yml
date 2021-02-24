@@ -6,6 +6,8 @@ description: ComingSoon
 baseurl: "/"
 url: ''
 defaults:
+- scope: ''
+  values: ''
 - scope:
     path: ''
   values:
