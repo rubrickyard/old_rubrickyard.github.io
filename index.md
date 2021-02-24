@@ -12,7 +12,7 @@ page_sections:
   - link: "#about"
     link_text: About
   cta:
-    url: "/contact"
+    url: 'mailto: info@rubrick.ca'
     button_text: Contact us
 - template: hero-banner-w-image
   block: hero-2
