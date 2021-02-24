@@ -3,6 +3,12 @@ layout: blocks
 title: Homepage
 date: 2021-02-23 00:00:00 -0500
 page_sections:
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: "/"
+    link_text: About
+  logo: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
