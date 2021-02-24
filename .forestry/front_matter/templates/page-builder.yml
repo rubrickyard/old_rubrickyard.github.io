@@ -32,7 +32,7 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- "./homepage-copy-1.md"
 - "./homepage-copy.md"
+- homepage-cop.md
 - index.md
 - index.md
