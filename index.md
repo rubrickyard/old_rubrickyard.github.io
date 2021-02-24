@@ -24,11 +24,11 @@ page_sections:
     training and strategy planning to help you incorporate and implement custom AI
     solutions in your workflow.
   cta:
-    enabled: false
+    enabled: true
     url: 'mailto: info@rubrick.ca'
     button_text: 'Contact us! '
   image:
-    image: "/uploads/2018/06/21/hero-2-bg.png"
+    image: ''
     alt_text: ''
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
@@ -49,5 +49,16 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
