@@ -25,7 +25,7 @@ page_sections:
     solutions in your workflow.
   cta:
     enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: 'mailto: info@rubrick.ca'
     button_text: Coming soon
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
