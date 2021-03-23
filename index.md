@@ -19,10 +19,10 @@ page_sections:
   slug: features
   headline: "<br><strong>AI for a purpose<br></strong>Not for its own sake"
   content: AI projects should not be started out of <em>Fear Of Missing Out</em>.
-    Our mission is to help you set the <strong>foundational brick to your meaningful
-    project,</strong> providing interdisciplinary solutions powered with AI. Let us
-    empower your team with essential data literacy, strategy planning to help you
-    incorporate and implement custom AI solutions in your workflow.
+    Our mission is to help you set the <strong>foundational brick to your projects,</strong>
+    providing interdisciplinary expertise. Let's empower your team with essential
+    data literacy, and define the correct strategy to incorporate and implement AI
+    solutions in your workflow.
   cta:
     enabled: true
     url: 'mailto: info@rubrick.ca'
