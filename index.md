@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/logos/logo2.png"
+  logo: "/uploads/2021/04/11/logo_template.svg"
   navigation:
   - link: "/"
     link_text: Home
