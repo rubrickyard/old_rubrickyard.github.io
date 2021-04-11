@@ -46,6 +46,14 @@ page_sections:
   media:
     image: "/uploads/2021/02/24/untitlednarrow.png"
     alt_text: About us
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2021/04/11/diagnosis.svg"
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
