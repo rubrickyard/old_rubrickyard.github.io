@@ -49,10 +49,10 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2021/04/11/diagnosis.svg"
+    image: "/uploads/2021/04/11/pipeline.svg"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2021/04/11/pipeline-right.svg"
     caption: ''
 - template: simple-footer
   block: footer-1
