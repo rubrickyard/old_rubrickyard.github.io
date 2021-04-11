@@ -54,6 +54,14 @@ page_sections:
   image_2:
     image: "/uploads/2021/04/11/pipeline-right.svg"
     caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: ''
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
