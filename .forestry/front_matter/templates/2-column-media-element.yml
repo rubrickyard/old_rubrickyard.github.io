@@ -9,9 +9,6 @@ fields:
   - type: file
     name: image
     label: image
-  - type: text
-    name: caption
-    label: Caption
 - type: field_group
   name: image_2
   label: Second Image
@@ -19,6 +16,3 @@ fields:
   - type: file
     name: image
     label: Image
-  - type: text
-    name: caption
-    label: Caption
