@@ -54,5 +54,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 2-column-media-element
+  image_1:
+    image: "/uploads/2021/04/11/pipeline.svg"
+  image_2:
+    image: "/uploads/2021/04/11/pipeline-right.svg"
 
 ---
