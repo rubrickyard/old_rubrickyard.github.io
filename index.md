@@ -46,16 +46,16 @@ page_sections:
   media:
     image: "/uploads/2021/02/24/untitlednarrow.png"
     alt_text: About us
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/04/11/pipeline-3.svg"
+  slug: ''
+  caption: ''
 - template: 2-column-media-element
   image_1:
     image: "/uploads/2021/04/11/pipeline.svg"
   image_2:
     image: "/uploads/2021/04/11/pipeline-right.svg"
-- template: 2-column-media-element
-  image_1:
-    image: "/uploads/2021/04/11/pipeline-1.svg"
-  image_2:
-    image: "/uploads/2021/04/11/pipeline-right-1.svg"
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
