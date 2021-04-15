@@ -4,7 +4,7 @@ author: RuBrick
 email: info@rubrick.ca
 description: ComingSoon
 baseurl: "/"
-url: ''
+url: rubrick.ca
 defaults:
 - scope: ''
   values: ''
