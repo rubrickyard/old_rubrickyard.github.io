@@ -50,7 +50,7 @@ page_sections:
   block: media-1
   image: "/uploads/2021/04/15/rubrick_flow_long.svg"
   slug: ''
-  caption: ''
+  caption: M'AI help you?
 - template: 2-column-media-element
   image_1:
     image: "/uploads/2021/04/11/pipeline.svg"
