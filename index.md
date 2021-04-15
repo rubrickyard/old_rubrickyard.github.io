@@ -48,16 +48,16 @@ page_sections:
     alt_text: About us
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/04/11/pipeline-3.svg"
+  image: "/uploads/2021/04/15/rubrick_flow_long.svg"
   slug: ''
   caption: ''
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
 - template: 2-column-media-element
   image_1:
     image: "/uploads/2021/04/11/pipeline.svg"
   image_2:
     image: "/uploads/2021/04/11/pipeline-right.svg"
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Canada
 
 ---
