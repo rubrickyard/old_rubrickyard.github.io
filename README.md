@@ -1,5 +1,5 @@
 ---
-logo: "/uploads/logos/logo1.png"
+logo: "/uploads/logos/Logo_template.svg"
 
 ---
 # AI for a purpose, not for its own sake
